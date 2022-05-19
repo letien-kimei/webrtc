@@ -1,0 +1,18 @@
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#client_can_change{
+    background-color: red;
+}
+#video_client_can_change{
+
+}
+#remote_client{
+
+}
+#remote_client video{
+    
+}
